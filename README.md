@@ -1,5 +1,5 @@
 Hi,
-I am open to new job opportunities. I would like to work as Python Developer.
+I am here to explore more about programming. I am Python Developer.
 My skills: Python, HTML/CSS, SQL, Javascript, Django, Flask, Pandas, Git, Bash, Linux...
 
 - 🔭 I’m currently working on - adding new features to my own app Library Reader
